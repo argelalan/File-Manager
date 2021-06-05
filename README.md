@@ -11,11 +11,11 @@ This Python script can automatically moves files from the downloads directory to
 1. Make sure you have Python3 installed
 1. Make sure that the directory paths defined in the beginning of the program exist in your system
 2. Move downloads_manager.py to your downloads directory
-3. Set up a cronjob that runs the program every hour by executing the following commands:
+3. Set up a cron job that runs the program every hour by executing the following commands:
   * `~ % crontab - e`
   * Press 'i' to insert the following command into crontab
   * `~ % 0 */1 * * * cd ~/Downloads/ && python3 downloads_manager.py`
-  * Press 'esc' and enter 'wq" to save your cronjob
+  * Press 'esc' and enter 'wq" to save your cron job
 4. Say goodbye to the clutter!
 
 #### Learn more about how to run crontabs:
