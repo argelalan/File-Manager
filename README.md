@@ -15,7 +15,7 @@ This Python script can automatically moves files from the downloads directory to
   * `~ % crontab - e`
   * Press 'i' to insert the following command into crontab
   * `~ % 0 */1 * * * cd ~/Downloads/ && python3 downloads_manager.py`
-  * Press 'esc' and enter 'wq" to save your cron job
+  * Press 'esc' and enter ':wq" to save your cron job
 4. Say goodbye to the clutter!
 
 #### Learn more about how to run crontabs:
