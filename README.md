@@ -18,7 +18,7 @@ This Python script can automatically moves files from the downloads directory to
   * Press 'esc' and enter ':wq" to save your cron job
 4. Say goodbye to the clutter!
 
-#### Learn more about how to run crontabs:
+#### Learn more about how to run cron jobs:
 [‘crontab’ in Linux with Examples](https://crontab.guru)
 
 ## References & Citations
